@@ -1,0 +1,2 @@
+## Chilliflake
+chilliflake, more dangerous snowflake variant does not need coordiantion server and replace step bits with randomess bits <42bit__milisecondtime_since_2020><6bit_host_id><16bit_random_number>
